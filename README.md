@@ -2,7 +2,7 @@
 
 ![linux-network-doctor project banner](docs/project-banner.webp)
 
-A **Bash** command-line tool for read-only Linux network troubleshooting. Checks interface state, the IPv4 default route, system name resolution, and optional HTTPS connectivity. Built as a new learning and portfolio project for Jason Edwards; it has not been validated on his personal machines.
+A **Bash** command-line tool for read-only Linux network troubleshooting. Checks interface state, the IPv4 default route, system name resolution, and optional HTTPS connectivity.
 
 ## Run
 
